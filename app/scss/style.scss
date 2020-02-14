@@ -1,0 +1,12 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+    border-style: inherit;
+}
+
+.box{
+    display: flex;
+}
