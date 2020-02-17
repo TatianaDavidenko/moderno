@@ -9,8 +9,8 @@ $(function () {
   $('.product-slider__inner').slick({
     dots: true,
     arrows: false,
-    slidesToShow: 3,
-    slidesToScroll: 3 
+    slidesToShow: 4,
+    slidesToScroll: 4 
 
   });
 
